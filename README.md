@@ -1,2 +1,2 @@
-# JSTickTack
-TickTackTest
+# JSRupeeOnly
+JSRupeeOnly + Paisa on Progress
